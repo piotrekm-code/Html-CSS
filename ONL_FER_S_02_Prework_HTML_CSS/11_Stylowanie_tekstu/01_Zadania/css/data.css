@@ -1,0 +1,39 @@
+body {
+    padding:0;
+    margin:0;
+    font-family: sans-serif;
+}
+.bg {
+    background-image: url(../images/clouds-country.jpg);
+    background-size: cover;
+    background-position: 50% 0;
+    background-attachment: fixed;
+    width:50%;
+    height:100vh;
+    position: fixed;
+    left:50%;
+    top:0;
+}
+.container {
+    max-width:50%;
+    padding: 5rem;
+    box-sizing: border-box;
+    font-size: 20px;
+    color: #555;
+    line-height: 2em;
+}
+cite {
+    color: #777;
+    font-style: inherit;
+    background-color: #eee;
+    font-style: oblique
+    
+}
+
+h1 h2 {
+    text-transform: uppercase;
+    font-size: 2,5 em;
+    color: brown;
+
+}
+\

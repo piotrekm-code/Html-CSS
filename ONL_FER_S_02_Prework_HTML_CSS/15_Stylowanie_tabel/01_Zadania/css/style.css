@@ -1,0 +1,17 @@
+body {
+    padding:20px;
+    font-family: sans-serif;
+}
+
+/* tutaj stylowanie */
+table {
+    width: 100%;
+    border: 2px solid gold;
+}
+
+table th {
+    border: 1px solid #aaa;
+    background-color: gold;
+    border-spacing: 20px;
+}
+

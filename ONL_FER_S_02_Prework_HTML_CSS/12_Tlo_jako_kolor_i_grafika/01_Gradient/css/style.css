@@ -1,0 +1,6 @@
+
+.gradient {
+    background-color: linear-gradient(red, yellow);
+    width: 200px;
+    height: 500px;
+}

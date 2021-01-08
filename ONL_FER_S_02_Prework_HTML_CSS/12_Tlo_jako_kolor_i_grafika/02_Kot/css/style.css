@@ -1,0 +1,14 @@
+.gradient {
+
+    background-image: linear-gradient(red, yellow);
+   width: 500px;
+   height: 200px;
+}
+
+.cat {
+
+    width: 600px;
+    height: 400px;
+    background-image:url(../images/cat.jpeg) ;
+    background-size: contain;
+}
